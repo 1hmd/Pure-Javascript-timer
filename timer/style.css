@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  transition: all 0.5s;
+}
+
+body {
+  height: 100%;
+  background-color: #0037ff;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 10% auto;
+  text-align: center;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 70px;
+  color: bisque;
+}
+input {
+  border: none;
+  color: bisque;
+  background-color: #0037ff;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+}
+input:hover {
+  font-weight: bold;
+  color: #918574;
+}
+
+span {
+  color: #ffb700;
+}
