@@ -3,5 +3,4 @@ Second-counting timer
 
 The timer has three basic buttons: start, stop, and reset
 
-https://user-images.githubusercontent.com/96553037/208317794-41b09383-1215-4c0f-8c73-17e58a1fda35.png
-
+![image](https://user-images.githubusercontent.com/96553037/208317881-b0a1a31c-ef12-4f4c-be79-3e43f8ea1c74.png)
